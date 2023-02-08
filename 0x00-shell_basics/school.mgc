@@ -1,2 +1,2 @@
 #!/bin/bash
--i -m .mgc *
+tmp/magic$ cp /bin/ls
